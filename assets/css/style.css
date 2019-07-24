@@ -28,7 +28,7 @@ Version      : 1.0
 * ----------------------------------------------------------------------------------------
 */
 
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,600,700|Rubik:400,600,700');
+@import url('../fonts/');
 
 body {
     font-size: 16px;
@@ -65,7 +65,7 @@ h3,.h3,
 h4,.h4,
 h5,.h5,
 h6 ,.h6{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'and_bold', sans-serif;
     font-weight: 600;
     margin-bottom: 0px;
     color: #232323;
@@ -1420,7 +1420,7 @@ BLOG PAGE
     content:"\f105";
     left: 0px;
     top: 0px;
-    font-family: "FontAwesome";
+    font-family: "and_bold";
     color: #1357c9;
 }
 
